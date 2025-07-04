@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: email-cleaner
+    env: python
+    buildCommand: ""
+    startCommand: python email_duplicate_cleaner_flask.py
