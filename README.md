@@ -106,3 +106,5 @@ Visit 👉 [http://127.0.0.1:5000](http://127.0.0.1:5000)
 This project is licensed under the MIT License. 
 Created and maintained by **Ari R**.
 Feel free to use, modify, and distribute.
+
+---
