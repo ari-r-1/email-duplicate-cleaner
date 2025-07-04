@@ -6,17 +6,12 @@ Email Duplicate Cleaner is a lightweight, intelligent web app that helps you cle
 
 A sleek and powerful web application built using **Flask** that empowers users to:
 
-    - 📤 Upload raw .txt, .csv, .json files containing email lists
-
-    - 🧠 Intelligently extract valid email addresses using advanced regular expressions
-
-    - ♻️ Instantly separate **unique** & **duplicate** entries 
-
-    - 🎯 Filter by domain like `@gmail.com`, `@yahoo.com`, etc.
-
-    - 📥 Download cleaned results as .txt files
-
-    - 💡 Enjoy a smooth, interactive UI with helpful notifications and visual effects
+- 📤 Upload raw .txt, .csv, or .json files containing email lists
+- 🧠 Smart Extraction: Automatically detects and extracts valid email addresses using advanced regular expressions
+- ♻️ Instantly separate **unique** & **duplicate** entries  
+- 🎯 Filter by domain like `@gmail.com`, `@yahoo.com`, etc.  
+- 📥 Download your cleaned data in 1 click  
+- 💡 User-Friendly Interface: Enjoy a sleek, interactive UI with real-time notifications and visual effects
 
 ---
 
