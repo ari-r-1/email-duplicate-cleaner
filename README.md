@@ -10,9 +10,9 @@ A sleek and powerful web application built using **Flask** that empowers users t
 
     - 🧠 Intelligently extract valid email addresses using advanced regular expressions
 
-    - 🧹 Instantly detect and separate unique and duplicate emails
+    - ♻️ Instantly separate **unique** & **duplicate** entries 
 
-    - 🎯 Optionally filter by domain (e.g., @gmail.com, @yahoo.com)
+    - 🎯 Filter by domain like `@gmail.com`, `@yahoo.com`, etc.
 
     - 📥 Download cleaned results as .txt files
 
@@ -61,12 +61,12 @@ cd email-duplicate-cleaner
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Run the App
+### 3️⃣ Run the App
 ```bash
 python email_duplicate_cleaner_flask.py
 ```
 
-### 5️⃣ Open in Browser  
+### 4️⃣ Open in Browser  
 Visit 👉 [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ---
@@ -103,5 +103,6 @@ Visit 👉 [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ## 📄 License
 
-This project is licensed under the MIT License.  
+This project is licensed under the MIT License. 
+Created and maintained by **Ari R**.
 Feel free to use, modify, and distribute.
